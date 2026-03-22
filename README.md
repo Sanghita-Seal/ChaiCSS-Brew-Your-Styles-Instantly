@@ -1,4 +1,4 @@
-# ⚡ ChaiCSS — Brew Your Styles Instantly
+# ⚡Chai-Tailwind — Brew Your Styles Instantly
 
 A lightweight **utility-first CSS engine** powered by JavaScript.
 
@@ -36,7 +36,7 @@ Build modern UIs using simple class names like `chai-p-20`, `chai-bg-red` — wi
 
 ```html
 <div class="chai-p-20 chai-bg-red chai-text-center">
-  Hello ChaiCSS 🚀
+  Hello Chai-Tailwind🚀
 </div>
 ```
 
@@ -50,7 +50,7 @@ No CSS. No setup. Just class names.
 
 ## 🧪 Quick Start (Test in 10 seconds)
 
-You can test ChaiCSS instantly by creating a simple HTML file.
+You can test Chai-Tailwind instantly by creating a simple HTML file.
 
 ### 1. Create a file: `index.html`
 
@@ -80,13 +80,13 @@ You can test ChaiCSS instantly by creating a simple HTML file.
 
 ### 3. Open in browser
 
-👉 If you see styled elements → **ChaiCSS is working ✅**
+👉 If you see styled elements → **Chai-Tailwind is working ✅**
 
 ---
 
 ## 🔁 Reusability
 
-ChaiCSS is a **plug-and-play client-side library**.
+Chai-Tailwind is a **plug-and-play client-side library**.
 
 To use it in any project:
 
