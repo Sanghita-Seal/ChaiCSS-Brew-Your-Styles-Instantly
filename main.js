@@ -1,7 +1,7 @@
 const editor = document.getElementById("editor");
 const preview = document.getElementById("preview");
 
-// Debounce (smooth typing)
+
 let timeout;
 
 editor.addEventListener("input", () => {
