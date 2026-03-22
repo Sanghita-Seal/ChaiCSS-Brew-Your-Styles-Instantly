@@ -18,7 +18,7 @@ Build modern UIs using simple class names like `chai-p-20`, `chai-bg-red` — wi
 
 ## 🚀 Live Demo
 
-👉 https://tailwind-shilpo.vercel.app/
+👉 https://chai-tailwind-brew-your-styles-inst.vercel.app/
 
 ---
 
