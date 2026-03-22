@@ -147,3 +147,7 @@ function formatValues(values, unit="px"){
 }
 
 window.runChaiEngine = runChaiEngine;
+
+document.addEventListener("DOMContentLoaded", () => {
+  runChaiEngine();
+});
